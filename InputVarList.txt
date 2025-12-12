@@ -1,0 +1,14 @@
+Variable	Description	Unit	Type	Remarks
+Git	내 컴퓨터에서 파일의 변경 이력을 관리하는 프로그램	-	String	
+GitHub	내 컴퓨터에 있는 Git 기록을 올려두는 클라우드 저장소	-	String	
+Repository	프로젝트 파일과 변경 이력이 저장되는 폴더(저장소)	-	String	상품들이 진열된 매장
+Stage	저장을 하기 위해 변경된 파일들을 골라놓는 공간	-	String	결제하기 전에 물건을 담는 장바구니
+Commit	스테이지에 있는 파일들을 실제로 저장하고 기록을 남기는 행위	-	String	장바구니의 물건을 결제(영수증 발행)
+Branch	원본을 훼손하지 않고 새로운 기능을 실험해보기 위해 나누는 가지	-	String	똑같은 매장을 복제해서 인테리어 실험하기
+Push	내 컴퓨터(Git)의 작업물을 원격 저장소(GitHub)에 올리는 것	-	String	본사 창고로 배송 보내기
+~	현재 자신의 계정 위치	-	String	
+$	리눅스 계열 운영체제 명령 프롬프트로 계정 ID로 접속했을 때	-	String	
+#	관리자 root로 접속했을 때	-	String	
+C:>  윈도우의 기본 터미널(CMD, PowerShell) GitHub 웹에서 수정함!
+Both are Best!
+Modified in MacBook!
